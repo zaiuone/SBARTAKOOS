@@ -1,0 +1,7 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><title>SM</title></head><body><p dir="ltr">killall screen</p>
+<p dir="ltr">while(true) do</p>
+<p dir="ltr">rm -fr ../.telegram-cli</p>
+<p dir="ltr">screen ./STORM.sh</p>
+<p dir="ltr">done</p>
+<p dir="ltr">echo -e "STORM IS RUN BOT"</p>
+</body></html>
